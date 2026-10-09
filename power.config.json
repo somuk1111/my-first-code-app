@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "appId": "9ed40285-e9b4-4f2a-aa4d-4d41b2c3d495",
+  "appDisplayName": "MyFirstCodeApps",
+  "region": "prod",
+  "appType": "CodeApp",
+  "environmentId": "389d32e5-2eca-ef9c-bbec-c5d6795e3cde",
+  "description": " ",
+  "buildPath": "./dist",
+  "buildEntryPoint": "index.html",
+  "localAppUrl": "http://localhost:3000",
+  "logoPath": "Default",
+  "connectionReferences": {},
+  "databaseReferences": {}
+}
